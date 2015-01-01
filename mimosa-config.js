@@ -8,8 +8,7 @@ exports.config = {
     "minify-js",
     "minify-css",
     "live-reload",
-    "bower",
-    "less"
+    "bower"
   ],
   "server": {
     "path": "server.js",
